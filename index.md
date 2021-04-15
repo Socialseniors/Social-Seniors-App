@@ -22,6 +22,7 @@ It is:
 2. You access that info on our easy-to-use, easy-to-read App
 3. If you want the service provider to call you back, send a pre-written message with the press of a button
 
+
 [Privacy Policy](https://privacy.socialseniorsapp.com)
 
 # Where to download
