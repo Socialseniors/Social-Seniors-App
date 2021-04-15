@@ -50,30 +50,32 @@ Feel free to send us:
 
 ## Our team
 
+- Jason
+  - MBA at University of Chicago
+- Lehan
+  - Data science at UNSW
+- Rheshav
+  - Computing science at UTS
+- John
+  - Computer networks at UNSW
+- Ivan
+  - Commerce/Law at UNSW
+
 
 
 
 
 ## Current partners
 
+- Ku-ring-gai Council
+- Ryde Council
+- Presbytyrian Aged Care
+- Hornsby Ku-ring-gai Community Transport
+- Meals on Wheels
+- 
 
 
 
-
-```
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
