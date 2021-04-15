@@ -42,9 +42,8 @@ Feel free to send us:
 
 
 1. Provide instant news and activity updates to clients, wherever they are
-2. Get faster feedback
-3. Access a wider audience in the community 
-
+2. Get instantaneous feedback from users, wherever they are in Australia
+3. Access a wider audience in the community
 
 
 
@@ -72,13 +71,10 @@ Feel free to send us:
 - Presbytyrian Aged Care
 - Hornsby Ku-ring-gai Community Transport
 - Meals on Wheels
-- 
+
+
+## App Developer
 
 
 
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
