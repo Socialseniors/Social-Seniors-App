@@ -25,6 +25,11 @@ Search for our name **Social Seniors** on the Play Store and Apple store.
 
 The App will be available 21st April 2021.
 
+_Link to be added_
+
+# Screenshots
+
+_images to be added_
 
 
 ## Contact us
@@ -75,6 +80,6 @@ Feel free to send us:
 
 ## App Developer
 
-
+_website to be added_
 
 
