@@ -1,3 +1,3 @@
-# Welcome to the Social Seniors App
+# Social Seniors App Homepage
 
 This file is a landing page
