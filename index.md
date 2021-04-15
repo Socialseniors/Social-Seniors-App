@@ -25,6 +25,8 @@ It is:
 
 [Privacy Policy](https://privacy.socialseniorsapp.com)
 
+
+
 # Where to download
 
 Search for our name **Social Seniors** on the Play Store and Apple store. 
